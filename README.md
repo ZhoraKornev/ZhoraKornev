@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="[http://www.unb.br](https://www.ukrainenow.org/)">Temporary unemployed</a>
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![Twitter: Zora10243650](https://img.shields.io/twitter/follow/Zora10243650?style=social)](https://twitter.com/Zora10243650)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/groups/42140/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/)
 
 

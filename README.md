@@ -8,7 +8,7 @@
 
 
 ```javascript
-const thai = {
+const Zhora = {
   pronouns: "he" | "him",
   code: [PHP, Typescript, HTML, CSS, Java],
   tools: [Rabbitmq, Redis, Node, MongoDB, Jenkins, Docker],
